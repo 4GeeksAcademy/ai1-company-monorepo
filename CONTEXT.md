@@ -1,13 +1,13 @@
-# Your company context
+# Context, Inc.
 
-**Replace this file** with the CONTEXT for your assigned company:
+## Company Overview
 
-- **Brasaland** — `CONTEXT-brasaland-briefing.md` (grilled food restaurant chain, Colombia + Florida)
-- **TrackFlow** — `CONTEXT-trackflow-briefing.md` (last-mile delivery and warehouse, Mexico + Spain)
-- **Nexova** — `CONTEXT-nexova-briefing.md` (HR consulting and talent acquisition, Chile + Argentina)
+This section is quick overview of the company.  Give it like a paragraph.
 
-Your instructor or milestone materials will point you to the correct CONTEXT file. Copy its contents here so that all project work and AI assistance use the same domain data, field names, and constraints.
+## Product & Service
 
----
+This section is your overview of what products they offer and where they operate.
 
-_Until you add your context, keep this placeholder so the repo structure is clear._
+## Branding
+
+This section includes mottos, brand colors, etc.
